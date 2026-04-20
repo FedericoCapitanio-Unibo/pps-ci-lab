@@ -2,6 +2,6 @@ plugins {
     java
 }
 
-repositories {
+repositories { // Where to search for dependencies
     mavenCentral()
 }
